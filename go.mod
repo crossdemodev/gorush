@@ -11,7 +11,7 @@ require (
 	github.com/asdine/storm/v3 v3.2.1
 	github.com/buger/jsonparser v1.1.1
 	github.com/dgraph-io/badger/v3 v3.2103.1
-	github.com/gin-contrib/logger v0.2.0
+	github.com/gin-contrib/logger v0.2.1
 	github.com/gin-gonic/gin v1.7.4
 	github.com/go-redis/redis/v8 v8.11.3
 	github.com/golang-queue/nats v0.0.5
