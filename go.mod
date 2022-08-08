@@ -21,11 +21,11 @@ require (
 	github.com/golang/glog v0.0.0-20210429001901-424d2337a529 // indirect
 	github.com/golang/protobuf v1.5.2
 	github.com/google/flatbuffers v2.0.0+incompatible // indirect
-	github.com/json-iterator/go v1.1.10
+	github.com/json-iterator/go v1.1.12
 	github.com/mattn/go-isatty v0.0.12
 	github.com/mitchellh/mapstructure v1.4.1
 	github.com/msalihkarakasli/go-hms-push v0.0.0-20210731212030-00e7b986815b
-	github.com/prometheus/client_golang v1.10.0
+	github.com/prometheus/client_golang v1.13.0
 	github.com/rs/zerolog v1.23.0
 	github.com/sideshow/apns2 v0.20.0
 	github.com/sirupsen/logrus v1.8.1
@@ -37,10 +37,10 @@ require (
 	github.com/tidwall/gjson v1.12.1 // indirect
 	go.uber.org/atomic v1.5.0
 	golang.org/x/crypto v0.0.0-20220112180741-5e0467b6c7ce
-	golang.org/x/net v0.0.0-20211112202133-69e39bad7dc2
-	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
+	golang.org/x/net v0.0.0-20220225172249-27dd8689420f
+	golang.org/x/sync v0.0.0-20220601150217-0de741cfad7f
 	google.golang.org/grpc v1.36.1
-	google.golang.org/protobuf v1.27.1
+	google.golang.org/protobuf v1.28.1
 )
 
 replace github.com/msalihkarakasli/go-hms-push => github.com/spawn2kill/go-hms-push v0.0.0-20211125124117-e20af53b1304
