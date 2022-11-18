@@ -37,9 +37,9 @@ require (
 	github.com/tidwall/gjson v1.12.1 // indirect
 	go.uber.org/atomic v1.5.0
 	golang.org/x/crypto v0.0.0-20220112180741-5e0467b6c7ce
-	golang.org/x/net v0.0.0-20211112202133-69e39bad7dc2
-	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	google.golang.org/grpc v1.36.1
+	golang.org/x/net v0.0.0-20220722155237-a158d28d115b
+	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4
+	google.golang.org/grpc v1.51.0
 	google.golang.org/protobuf v1.27.1
 )
 
